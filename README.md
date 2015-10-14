@@ -1,0 +1,2 @@
+# SPIRIT1_duplex
+Spirit1 IAR-EWARM Project - Full Duplex Mode: Reference: https://my.st.com/public/STe2ecommunities/interface/Lists/Low%20Power%20RF%20Solutions/Flat.aspx?RootFolder=https%3a%2f%2fmy%2est%2ecom%2fpublic%2fSTe2ecommunities%2finterface%2fLists%2fLow%20Power%20RF%20Solutions%2fspirit1%20auto%20retransmission%20and%20auto%20ack&amp;FolderCTID=0x01200200770978C69A1141439FE559EB459D7580008F23D8A934F45B4FB64D6201532EFD99&amp;currentviews=111#{6F6FE485-0018-43B0-9024-DD4138B73B66}
